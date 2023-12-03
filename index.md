@@ -5,3 +5,6 @@
 ```javascript
 console.log("hello markdown")
 ```
+- [x] learn html and css
+- [x] learn git
+- [ ] Create my personal portfolio 
